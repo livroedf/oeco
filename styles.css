@@ -128,7 +128,7 @@
         
         .about-block {
             background: #0a0a0a;
-            border-left: 4px solid #ff0040;
+            border-left: 4px solid #8b0505;
             padding-left: 2rem;
         }
         
@@ -142,7 +142,7 @@
             display: block;
             margin: 2rem 0;
             font-size: clamp(1.3rem, 4vw, 1.8rem);
-            color: #ff0040;
+            color: #8b0505;
         }
         
         .action-buttons {
@@ -169,7 +169,7 @@
         
         .glitch-btn:hover {
             background: rgba(255, 255, 255, 0.1);
-            border-color: #ff0040;
+            border-color: #8b0505;
         }
         
         /* Interactive Gallery */
@@ -184,7 +184,7 @@
             font-size: clamp(2rem, 5vw, 3rem);
             text-align: center;
             margin-bottom: 4rem;
-            color: #ff0040;
+            color: #8b0505;
             text-transform: uppercase;
             letter-spacing: 0.1em;
         }
@@ -213,7 +213,7 @@
         
         .character-shape:hover {
             transform: scale(1.05) rotate(2deg);
-            border-color: #ff0040;
+            border-color: #8b0505;
             background: #1a1a1a;
             box-shadow: 0 10px 30px rgba(255, 0, 64, 0.3);
         }
@@ -236,7 +236,7 @@
         }
         
         .character-shape:hover .shape-icon {
-            color: #ff0040;
+            color: #8b0505;
             transform: scale(1.2);
             text-shadow: 0 0 20px rgba(255, 0, 64, 0.5);
         }
@@ -271,8 +271,8 @@
         .chapter-block {
             background: #0a0a0a;
             padding: 6rem 2rem;
-            border-top: 2px solid #ff0040;
-            border-bottom: 2px solid #ff0040;
+            border-top: 2px solid #8b0505;
+            border-bottom: 2px solid #8b0505;
         }
         
         .chapter-title {
@@ -280,7 +280,7 @@
             font-size: clamp(2rem, 5vw, 3rem);
             text-align: center;
             margin-bottom: 4rem;
-            color: #ff0040;
+            color: #8b0505;
             text-transform: uppercase;
             letter-spacing: 0.1em;
         }
@@ -305,7 +305,7 @@
         
         .chapter-text:first-child {
             font-size: 2rem;
-            color: #ff0040;
+            color: #8b0505;
             text-align: center;
             margin-bottom: 3rem;
             font-weight: 600;
@@ -322,7 +322,7 @@
         .comments-title {
             font-family: 'Bebas Neue', sans-serif;
             font-size: 1.5rem;
-            color: #ff0040;
+            color: #8b0505;
             text-transform: uppercase;
             letter-spacing: 0.2em;
             margin-bottom: 2rem;
@@ -351,7 +351,7 @@
         .comment-form input:focus,
         .comment-form textarea:focus {
             outline: none;
-            border-color: #ff0040;
+            border-color: #8b0505;
         }
         
         .comment-form textarea {
@@ -360,7 +360,7 @@
         }
         
         .comment-btn {
-            background: #ff0040;
+            background: #8b0505;
             color: #ffffff;
             border: none;
             padding: 1rem 2rem;
@@ -391,14 +391,14 @@
         }
         
         .comment:hover {
-            border-color: #ff0040;
+            border-color: #8b0505;
             background: #222222;
         }
         
         .comment-author {
             font-family: 'Bebas Neue', sans-serif;
             font-size: 1rem;
-            color: #ff0040;
+            color: #8b0505;
             text-transform: uppercase;
             letter-spacing: 0.1em;
             margin-bottom: 0.5rem;
@@ -447,7 +447,7 @@
         
         .testimonial:hover {
             transform: skew(-1deg) scale(1.02);
-            border-color: #ff0040;
+            border-color: #8b0505;
             box-shadow: 0 10px 30px rgba(255, 0, 64, 0.2);
         }
         
@@ -472,14 +472,14 @@
             font-family: 'Bebas Neue', sans-serif;
             font-size: 1.1rem;
             font-weight: 700;
-            color: #ff0040;
+            color: #8b0505;
             text-transform: uppercase;
             letter-spacing: 0.2em;
         }
         
         /* Final CTA */
         .final-cta {
-            background: linear-gradient(45deg, #ff0040, #000000);
+            background: linear-gradient(45deg, #8b0505, #000000);
             text-align: center;
             padding: 6rem 2rem;
         }
