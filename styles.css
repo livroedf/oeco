@@ -115,7 +115,7 @@
         }
         /* imagem */
    .imagem-titulo {
-    max-width: 100%; 
+    max-width: 300px; 
     height: auto;    
     display: inline-block;
     vertical-align: middle;
