@@ -175,31 +175,6 @@
             border-color: #8b0505;
         }
 
-/* redes Gallery */
-.container-redes {
-    margin-top: 2rem;
-    text-align: left; /* Alinha com o bloco de texto da sinopse */
-}
-
-.botao-rede {
-    display: inline-block;
-    background: transparent;
-    color: #ffffff;
-    border: 2px solid #ffffff;
-    padding: 12px 24px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 0.9rem;
-    letter-spacing: 1px;
-    text-decoration: none;
-    transition: all 0.4s ease;
-}
-
-.botao-rede:hover {
-    background: #ffffff;
-    color: #000000;
-    cursor: pointer;
-    box-shadow: 4px 4px 0px #ff0040; /* Sombra sólida estilosa */
-}
         /* Interactive Gallery */
         .gallery-block {
             background: #111111;
