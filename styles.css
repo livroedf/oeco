@@ -174,7 +174,35 @@
             background: rgba(255, 255, 255, 0.1);
             border-color: #8b0505;
         }
-        
+
+ /* redes */
+.redes-sociais-fixas {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 999;
+}
+
+.redes-sociais-fixas a {
+    display: block;
+    background: #111111;
+    color: #ffffff;
+    border: 2px solid #333333;
+    padding: 10px 15px;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+/* Efeito de hover combinando com o estilo do site */
+.redes-sociais-fixas a:hover {
+    background: #ff0040; /* Vermelho escarlate */
+    color: #000000;
+    border-color: #ff0040;
+    transform: skew(-2deg);
+}
+
         /* Interactive Gallery */
         .gallery-block {
             background: #111111;
